@@ -61,7 +61,7 @@ ga_domain: playingfingers.com
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "唯有恐惧，方能勇敢。"
+sidebar-about-description: "你又浪费了多少时间呢?"
 sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
