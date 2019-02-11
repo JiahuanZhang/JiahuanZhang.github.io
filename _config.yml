@@ -1,6 +1,6 @@
 # Site settings
-title: ZJH Blog
-SEOTitle: ZJH的博客 | ZJH Blog
+title: ZJH's Blog
+SEOTitle: ZJH的博客 | ZJH's Blog
 header-img: img/home-bg.jpg
 email: XXXXXX@gmail.com
 description: "学习之路，永无止尽"
@@ -14,9 +14,9 @@ baseurl: ""                             # for example, '/blog' if your blog host
 RSS: false
 # weibo_username:   
 github_username:    JiahuanZhang  
-#zhihu_username:     
-#twitter_username:  
-#facebook_username:  
+zhihu_username:     JiahuanZhang
+twitter_username:   JiahuanZhang
+facebook_username:  JiahuanZhang
 
 
 
