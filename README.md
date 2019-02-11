@@ -1,8 +1,6 @@
-# Bobop.C Blog
+# Title
+learn to build a personal blog based on Github & Jekyll.
 
-###[http://playingfingers.com](http://playingfingers.com)
+# Thanks
 
-
-## Thanks
-
-This theme is forked from [Huxpro/huxblog-boilerplate](https://github.com/Huxpro/huxblog-boilerplate). Thanks a lot!  
+This theme is forked from [chaosinmotion/chaosinmotion.github.io](chaosinmotion/chaosinmotion.github.io). Thanks a lot!  
