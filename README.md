@@ -1,5 +1,7 @@
 # Title
-learn to build a personal blog based on **Github** & **Jekyll**.
+Learn to build a personal blog based on **Github** & **Jekyll**.
+
+You can visit it by [ https://jiahuanzhang.github.io/]( https://jiahuanzhang.github.io/).
 
 # Thanks
 
