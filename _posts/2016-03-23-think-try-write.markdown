@@ -6,7 +6,7 @@ date:       2016-03-23 12:00:00
 author:     "Bebop.C"
 header-img: "img/post-think-try-write.jpg"
 tags:
-    - 聊聊
+    - 反思
 ---
 
 ## 欢迎光临。

@@ -3,7 +3,7 @@ title: ZJH Blog
 SEOTitle: ZJH的博客 | ZJH Blog
 header-img: img/home-bg.jpg
 email: XXXXXX@gmail.com
-description: "May Your Heart Be The Map"
+description: "学习之路，永无止尽"
 keyword: ""
 url: "http://playingfingers.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
@@ -43,7 +43,7 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: Bebop.C
+duoshuo_username: ZJH
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
