@@ -7,7 +7,6 @@ author:     "Bebop.C"
 header-img: "img/post-java-eclipse.jpg"
 tags:
     - Java
-    - Eclipse
 ---
 
 

@@ -6,8 +6,7 @@ date:       2016-03-26
 author:     "Bebop.C"
 header-img: "img/post-build-a-blog.jpg"
 tags:
-    - Git
-    - 建站
+    - Github
 ---
 
 

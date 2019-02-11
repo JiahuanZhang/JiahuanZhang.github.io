@@ -7,7 +7,6 @@ author:     "Bebop.C"
 header-img: "img/post-matthew-to-grads.jpg"
 tags:
     - 人生
-    - 管理
 ---
 
 
