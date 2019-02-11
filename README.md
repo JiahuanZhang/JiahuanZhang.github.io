@@ -1,5 +1,5 @@
 # Title
-learn to build a personal blog based on Github & Jekyll.
+learn to build a personal blog based on **Github** & **Jekyll**.
 
 # Thanks
 
