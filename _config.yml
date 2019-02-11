@@ -75,19 +75,10 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "Bebop.C Blog",
-        href: "http://playingfingers.com"
+        title: "ZJH's github",
+        href: "https://github.com/JiahuanZhang"
     },{
-        title: "Spike Spiegel",
-        href: "#"
-    },{
-        title: "Jet Black",
-        href: "#"
-    },{
-        title: "Faye Valentine",
-        href: "#"
-    },{
-        title: "Ein",
-        href: "#"
+        title: "Github",
+        href: "https://github.com/"
     }
 ]
